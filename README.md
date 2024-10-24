@@ -18,7 +18,7 @@ This Python-based application allows users to extract dominant colors from any i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/color-palette-generator.git
+   git clone https://github.com/prantikm07/Color-Palette-Generator.git
    cd color-palette-generator
    ```
 
