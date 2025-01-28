@@ -1,4 +1,4 @@
-# 🎨 Color Palette Generator
+# 🎨 PickColor: Color Palette Generator
 
 This Python-based application allows users to extract dominant colors from any image and generate a color palette with corresponding hex codes. The hex codes can be easily copied with a single click. The application features a simple and user-friendly graphical interface (GUI) using Tkinter.
 
